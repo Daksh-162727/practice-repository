@@ -1,0 +1,3 @@
+this is the new txt file for practice
+here we will learn about merge conflict
+merge conflict
