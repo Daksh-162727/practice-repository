@@ -4,4 +4,5 @@ def cal_sum(a,b,c):
     print(a+b+c)
 
 cal_sum(4,500,62)
-# this is the end of the code
+# this is the end of the code in python
+
